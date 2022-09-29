@@ -76,6 +76,7 @@ p .time{
 }
 .comment{
     width: 28rem;
+    max-width:29rem;
     border: 1px solid hsl(205, 33%, 90%);
     margin: auto;
     box-sizing: border-box;
